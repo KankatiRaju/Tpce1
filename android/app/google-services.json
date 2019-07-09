@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665394595097",
+    "firebase_url": "https://tpce-6b20e.firebaseio.com",
+    "project_id": "tpce-6b20e",
+    "storage_bucket": "tpce-6b20e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665394595097:android:1d6add9c0e09516d",
+        "android_client_info": {
+          "package_name": "com.example.tpce1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665394595097-al6fl2vuvtl6g8k9vjm5qeflimlj8ao0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-o2lhCQz6a9cjvNhiijXsx-cYov8VUN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665394595097-al6fl2vuvtl6g8k9vjm5qeflimlj8ao0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
